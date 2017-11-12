@@ -17,4 +17,8 @@ function attributesToPhrase(drivers) {
   return drivers.map(function (driver) {
     return `${driver.name} is from ${driver.hometown}`;
   });
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 7785c186a0b807dd506b063976f9c20db0d46421
